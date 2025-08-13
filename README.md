@@ -1,16 +1,16 @@
-## Hi there 👋
+# היי 👋 אני גילה
+מפתחת פולסטאק עם התמחות ב־React, Node.js וטכנולוגיות נוספות.  
+📍 מתמחה בבניית אתרי תדמית, מערכות ניהול וממשקים אינטראקטיביים.
 
-<!--
-**gila-W/gila-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 פרויקטים נבחרים
+| פרויקט | תיאור | טכנולוגיות | קישור |
+|--------|--------|-------------|-------|
+| 🎮 מערכת ניהול משחקיה | מערכת לניהול משחקים, משתמשים ותשלומים | React, Node.js, MongoDB | [צפייה](https://github.com/username/project1) |
+| 🌸 אתר תדמית | אתר עם עיצוב מודרני ואנימציות | React, TailwindCSS | [צפייה](https://github.com/username/project2) |
+| 📊 Dashboard ניהול | לוח בקרה דינמי לסטטיסטיקות | Vue.js, Express | [צפייה](https://github.com/username/project3) |
 
-Here are some ideas to get you started:
+## 📫 יצירת קשר
+- GitHub: [github.com/GilaWaissblum](https://github.com/GilaWaissblum)
+- LinkedIn: [קישור ללינקדאין]
+- Email: example@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
