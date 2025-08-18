@@ -10,7 +10,7 @@
 | 📊 Dashboard ניהול | לוח בקרה דינמי לסטטיסטיקות | Vue.js, Express | [צפייה](https://github.com/username/project3) |
 
 ## 📫 יצירת קשר
-- GitHub: [github.com/gila-W](https://github.com/gili-W)
+- GitHub: [github.com/gila-W](https://github.com/gila-W)
 - Email: gw38452@email.com
 - Phone: +972 534138452
 
