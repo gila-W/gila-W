@@ -6,7 +6,7 @@
 | פרויקט | תיאור | טכנולוגיות | קישור |
 |--------|--------|-------------|-------|
 | 🌸 מערכת ניהול משחקיה | מערכת לניהול משחקים, משתמשים ותשלומים | React, Node.js, MongoDB | [צפייה](https://github.com/username/project1) |
-| 🎮 משחק סיימון | משחק מחשב סיימון עם ניקוד הניצחון | React, TailwindCSS | [צפייה](https://github.com/username/project2) |
+| 🎮 משחק סיימון | משחק מחשב סיימון עם ניקוד הניצחון | React, TailwindCSS | [צפייה]( https://gila-w.github.io/Simon/) |
 | 📊 Dashboard ניהול | לוח בקרה דינמי לסטטיסטיקות | Vue.js, Express | [צפייה](https://github.com/username/project3) |
 
 ## 📫 יצירת קשר
