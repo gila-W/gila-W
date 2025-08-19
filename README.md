@@ -5,7 +5,7 @@
 ## 🚀 פרויקטים נבחרים
 | פרויקט | תיאור | טכנולוגיות | קישור |
 |--------|--------|-------------|-------|
-| 🌸 מערכת ניהול משחקיה | מערכת לניהול משחקים, משתמשים השאלות והחזרות | React, Node.js, MongoDB | [client](https://github.com/yafa-f/my-playroom-update) [server](https://github.com/gila-W/Playroom-Project-Node) |
+| 🌸 מערכת ניהול משחקיה | מערכת לניהול משחקים, משתמשים השאלות והחזרות | React, Node.js, MongoDB | [client](https://github.com/yafa-f/my-playroom-update)    [server](https://github.com/gila-W/Playroom-Project-Node) |
 | 🎮 משחק סיימון | משחק מחשב סיימון עם ניקוד הניצחון | React, TailwindCSS | [צפייה בלייב]( https://gila-w.github.io/Simon/) |
 | Mail Delivery Service | פרויקט ניהול משלוחי דואר | React, MUI | [צפייה](https://github.com/username/project3) |
 | GemitDiamond |פיתוח פלטפורמת  eCommerce למסחר ביהלומים| React, MUI ,sharetribe | [צפייה](https://github.com/gemit-project/client) |
