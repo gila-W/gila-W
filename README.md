@@ -2,7 +2,6 @@
 מפתחת פולסטאק עם התמחות ב־React, Node.js וטכנולוגיות נוספות.  
 📍 מתמחה בבניית אתרי תדמית, מערכות ניהול וממשקים אינטראקטיביים.
 ## 🚀 פרויקטים נבחרים
-## 🚀 פרויקטים נבחרים
 <table dir="rtl">
 <thead>
 <tr>
@@ -16,7 +15,7 @@
 <tr>
 <td>🌸 מערכת ניהול משחקיה</td>
 <td>🧩 מערכת לניהול משחקים, משתמשים, השאלות והחזרות</td>
-<td>⚛️ React · 🌐 Node.js · 🍃 MongoDB</td>
+<td dir="ltr">⚛️ React · 🌐 Node.js · 🍃 MongoDB</td>
 <td>
 <a href="https://github.com/yafa-f/my-playroom-update">💻 Client</a> · 
 <a href="https://github.com/gila-W/Playroom-Project-Node">🛠 Server</a>
@@ -26,7 +25,7 @@
 <tr>
 <td>🎮 משחק סיימון</td>
 <td>🎵 משחק מחשב סיימון עם ניקוד הניצחון</td>
-<td>⚛️ React · 🎨 TailwindCSS</td>
+<td dir="ltr">⚛️ React · 🎨 TailwindCSS</td>
 <td>
 <a href="https://gila-w.github.io/Simon/">🔗 צפייה בלייב</a>
 </td>
@@ -35,7 +34,7 @@
 <tr>
 <td>📦 Mail Delivery Service</td>
 <td>✉️ פרויקט ניהול משלוחי דואר</td>
-<td>⚛️ React · 🎛 MUI</td>
+<td dir="ltr">⚛️ React · 🎛 MUI</td>
 <td>
 <a href="https://github.com/username/project3">🔗 צפייה</a>
 </td>
@@ -44,7 +43,7 @@
 <tr>
 <td>💎 GemitDiamond</td>
 <td>🛒 פלטפורמת eCommerce למסחר ביהלומים</td>
-<td>⚛️ React · 🎛 MUI · 🌀 Sharetribe</td>
+<td dir="ltr">⚛️ React · 🎛 MUI · 🌀 Sharetribe</td>
 <td>
 <a href="https://github.com/gemit-project/client">🔗 צפייה</a>
 </td>
