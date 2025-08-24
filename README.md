@@ -7,8 +7,8 @@
 <tr>
 <th>פרויקט</th>
 <th>תיאור</th>
-<th style="width: 250px;">טכנולוגיות</th>
-<th style="width: 200px;">קישור</th>
+<th style="width: "250px">טכנולוגיות</th>
+<th style="width: 200">קישור</th>
 </tr>
 </thead>
 <tbody>
