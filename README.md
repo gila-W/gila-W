@@ -2,7 +2,7 @@
 מפתחת פולסטאק עם התמחות ב־React, Node.js וטכנולוגיות נוספות.  
 📍 מתמחה בבניית אתרי תדמית, מערכות ניהול וממשקים אינטראקטיביים.
 ## 🚀 פרויקטים נבחרים
-<table dir="rtl">
+<table dir="rtl"style="size: 15px">
 <thead>
 <tr>
 <th>פרויקט</th>
