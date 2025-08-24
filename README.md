@@ -7,7 +7,7 @@
 <tr>
 <th>פרויקט</th>
 <th>תיאור</th>
-<th style="white-space: nowrap;">טכנולוגיות</th>
+<th>טכנולוגיות</th>
 <th>קישור</th>
 </tr>
 </thead>
@@ -37,7 +37,7 @@
 <td>✉️ פרויקט ניהול משלוחי דואר</td>
 <td dir="ltr">⚛️ React · 🎛 MUI</td>
 <td>
-<a href="https://github.com/username/project3">🔗 צפייה</a>
+<a href="https://github.com/gila-W/React-Deliver-Project">🔗 צפייה</a>
 </td>
 </tr>
 
