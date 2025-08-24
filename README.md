@@ -15,7 +15,7 @@
 <tr>
 <td>🌸 מערכת ניהול משחקיה</td>
 <td>🧩 מערכת לניהול משחקים, משתמשים, השאלות והחזרות</td>
-<td dir="ltr">⚛️ React · 🌐 Node.js · 🍃 MongoDB</td>
+<td dir="ltr"  style="white-space: nowrap;">⚛️ React · 🌐 Node.js · 🍃 MongoDB</td>
 <td dir="ltr">
 <a href="https://github.com/yafa-f/my-playroom-update">💻 Client</a> ·                 
   <br/>
